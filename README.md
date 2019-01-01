@@ -12,6 +12,6 @@ docker build --tag nwpcc/sms .
 
 ## LICENSE
 
-Copyright &copy; 2018, Perilla Roc.
+Copyright &copy; 2018-2019, Perilla Roc.
 
 `sms-docker` is licensed under [MIT](LICENSE.md)
